@@ -42,3 +42,8 @@ $ docker run --cap-add sys_ptrace -it --rm swift swift
 All your homework will be stored within [this organization](https://github.com/unige-semantics-2017),
 that will be deleted later.
 If you want to keep your precious work, feel free to fork it in your own account.
+
+## Tutorial
+
+This [Swift Tutorial](https://kyouko-taiga.github.io/swift-thoughts/tutorial/)
+will teach you everything needed for this course.
