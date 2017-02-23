@@ -47,4 +47,4 @@ If you want to keep your precious work, feel free to fork it in your own account
 
 This [Swift Tutorial](https://kyouko-taiga.github.io/swift-thoughts/tutorial/)
 will teach you everything needed for this course.
-Report [issues here](https://github.com/kyouko-taiga/swift-thoughts).
+Report [issues here](https://github.com/kyouko-taiga/swift-thoughts/issues).
